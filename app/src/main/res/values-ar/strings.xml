@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">الطوارئ</string>
+    <string name="child">نجده الاطفال</string>
+    <string name="blod">بنك الدم"</string>
+    <string name="fire">المطافي</string>
+    <string name="help">الانقاذ</string>
+    <string name="police">الشرطه</string>
+    <string name="medical">الاسعاف</string>
+    <string name="marine">انقاذ السواحل</string>
+    <string name="flight">برج الاخطار</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Emargency App</string>
+    <string name="child">\"Child rescue \"</string>
+    <string name="blod">\"Blod Bank \"</string>
+    <string name="fire">firefighter</string>
+    <string name="help">Help center</string>
+    <string name="police">\"Police \"</string>
+    <string name="medical">medical help</string>
+    <string name="marine">Marine rescue</string>
+    <string name="flight">Flight emergency</string>
+</resources>
